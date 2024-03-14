@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+button{
+    height: 50px;
+    width: 150px;
+    font-size: 32px;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+.azul {
+    background-color: blue;
+    place-content: center end;
+}
+.vermelho{
+    background-color: red;
+    place-content: start;
+}

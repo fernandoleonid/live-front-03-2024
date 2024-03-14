@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: blue;
+    margin: 100px;
+    padding: 30px;
+    background-color: pink;
+    text-align: center;
+}
+h2{
+    color: blue;
+}
+h6{
+    color: green;
+}
+p{
+    color: purple;
+}
